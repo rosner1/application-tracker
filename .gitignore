@@ -1,0 +1,15 @@
+# Maven
+/target/
+
+# Java
+*.class
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Environment variables
+.env
