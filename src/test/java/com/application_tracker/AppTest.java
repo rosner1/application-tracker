@@ -1,4 +1,4 @@
-package com.application-tracker;
+package com.application_tracker;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
